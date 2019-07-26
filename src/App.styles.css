@@ -1,0 +1,10 @@
+.headingFont {
+    font-family: 'Butcherman';
+    text-align: center;
+    font-size: 72px;
+    color: maroon;
+} 
+
+body {
+    background: linear-gradient(135deg, orange, orange 60%, cyan);
+}
